@@ -3,10 +3,6 @@
 ## Overview
 OpenBook is a cutting-edge electronic reading device built around the ESP32-C6 microcontroller. This sophisticated gadget integrates multiple sensors and interfaces to deliver an energy-efficient reading experience with extended functionality.
 
-## Block Diagram
-
-![alt text](image.png)
-
 ## Project Gallery
 The project includes various design views that showcase:
 - Device exploded assembly view
